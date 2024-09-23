@@ -22,10 +22,11 @@ const config = require("./config.json");
 
 			if (MATCH_FOUND) return;
 
-			console.log(config.searchStatus[status]);
-
             if (status == 'Invalid')
                 console.clear();
+			
+			console.log(config.searchStatus[status]);
+
 
 			if (status == "Found") {
 				MATCH_FOUND = true;
