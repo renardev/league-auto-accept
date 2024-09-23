@@ -8,4 +8,5 @@
 ### **Sıkça Sorulan Sorular ?**
 
 #### **Ban Durumu Nedir?**
-**Banlatma Riski Bulunmaktadır Bunu Bilerekten Kullanmalısınız.**
+[!CAUTION]
+Şuanda Ban Durumu Bulunmasa Bile İlerleyen Yamalarda Riot Games Tarafından Atılacak Yamalardan Ötürü Ban Durumu Etkilenebilir! Bunun Sorumluluğu Size Aittir.
