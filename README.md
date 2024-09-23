@@ -2,4 +2,4 @@
 
 
  
-Auto accept matches for League of Legends.
+It Might Be Bannable
