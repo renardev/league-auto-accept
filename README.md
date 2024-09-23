@@ -2,7 +2,7 @@
 
 ## Bu Alan Türk Kullanıcılar İçindir
 
-### **Nasıl Kullanılır ?***
+### **Nasıl Kullanılır ?**
 **Eklenecek..**
 
 ### **Sıkça Sorulan Sorular ?**
