@@ -1,0 +1,13 @@
+{
+    "ready": "[AUTO-ACCEPT]: Ready",
+    "searchStatus": {
+        "Invalid": "[SEARCH]: Waiting to find a match...",
+        "Searching": "[SEARCH]: Searching for a match...",
+        "Found": "[SEARCH]: Match found! Waiting for auto accept delay..."
+    },
+    "playerStatus": {
+        "Accepted": "[RESPONSE]: Match accepted, starting...",
+        "Declined": "[RESPONSE]: Match declined!"
+    },
+    "acceptDelay": 5
+}

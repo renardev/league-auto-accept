@@ -1,0 +1,17 @@
+{
+  "name": "league-auto-accept",
+  "version": "1.0.0",
+  "description": "Auto accept matches for League of Legends.",
+  "main": "app.js",
+  "author": "Renardev",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "league-connect": "^6.0.0-rc13",
+    "moment": "^2.30.1"
+  },
+  "devDependencies": {}
+}
