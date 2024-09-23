@@ -1,5 +1,4 @@
-# League-auto-accept
+# League Of Legends Otomatik Maç Kabul Edici
 
-
- 
-It Might Be Bannable
+## Ban Durumu Nedir ?
+**Banlatma Riski Bulunmaktadır Bunu Bilerekten Kullanmalısınız.**
