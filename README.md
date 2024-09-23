@@ -1,2 +1,5 @@
-# oyunlayici-ticketbot-v2
+# League-auto-accept
+
+
  
+Auto accept matches for League of Legends.
