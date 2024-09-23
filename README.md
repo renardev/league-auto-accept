@@ -1,6 +1,6 @@
 # League Auto Accept
 
-## Türk Kullanıcılar İçindir
+## Bu Alan Türk Kullanıcılar İçindir
 
-### Ban Durumu Nedir ?
+### **Ban Durumu Nedir ?**
 **Banlatma Riski Bulunmaktadır Bunu Bilerekten Kullanmalısınız.**
