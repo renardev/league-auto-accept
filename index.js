@@ -4,7 +4,7 @@ const {
 	createHttp1Request,
 } = require("league-connect");
 const moment = require("moment");
-import config from "./config.json";
+const config = require("./config.json");
 
 (async () => {
 	const credentials = await authenticate();
