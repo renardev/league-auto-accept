@@ -31,7 +31,7 @@ const config = require("./config.json");
 				MATCH_FOUND = true;
 
 				setTimeout(async () => {
-					if (declined) return;
+					if (PLAYER_STATUS == "Declined") return;
 
 					await createHttp1Request(
 						{
