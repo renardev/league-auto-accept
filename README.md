@@ -8,5 +8,5 @@
 ### **Sıkça Sorulan Sorular ?**
 
 #### **Ban Durumu Nedir?**
-[!CAUTION]
-Şuanda Ban Durumu Bulunmasa Bile İlerleyen Yamalarda Riot Games Tarafından Atılacak Yamalardan Ötürü Ban Durumu Etkilenebilir! Bunun Sorumluluğu Size Aittir.
+> [!CAUTION]
+> Şuanda Ban Durumu Bulunmasa Bile İlerleyen Yamalarda Riot Games Tarafından Atılacak Yamalardan Ötürü Ban Durumu Etkilenebilir! Bunun Sorumluluğu Size Aittir.
