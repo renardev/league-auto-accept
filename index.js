@@ -3,8 +3,25 @@ const {
 	createWebSocketConnection,
 	createHttp1Request,
 } = require("league-connect");
+const checkUpdate = require("check-update-github");
 const config = require("./config.json");
-const logger = require('./tools/logger');
+const logger = require("./tools/logger");
+const pkg = require("./package.json");
+
+logger.log("Checking for updates...");
+checkUpdate(
+	{
+		name: pkg.name,
+		currentVersion: pkg.version,
+		user: "renardev",
+		branch: "main",
+	},
+	function (err, latestVersion, defaultMessage) {
+		if (!err) {
+			console.log(defaultMessage);
+		}
+	}
+);
 
 if (config.acceptDelay > 10) logger.warn(config.delayWarning);
 
