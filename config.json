@@ -1,13 +1,15 @@
 {
     "ready": "[AUTO-ACCEPT]: Ready",
     "searchStatus": {
-        "Invalid": "[SEARCH]: Waiting to find a match...",
-        "Searching": "[SEARCH]: Searching for a match...",
-        "Found": "[SEARCH]: Match found! Waiting for auto accept delay..."
+        "Invalid": "[AUTO-ACCEPT]: No longer searching for a match.",
+        "Searching": "[AUTO-ACCEPT]: In queue",
+        "Found": "[AUTO-ACCEPT]: Match found! Waiting for auto accept delay..."
     },
     "playerStatus": {
-        "Accepted": "[RESPONSE]: Match accepted, starting...",
-        "Declined": "[RESPONSE]: Match declined!"
+        "Accepted": "[AUTO-ACCEPT]: Match accepted, waiting for other players...",
+        "Declined": "[AUTO-ACCEPT]: Match declined by user!"
     },
-    "acceptDelay": 5
+    "acceptDelay": 3,
+    "delayWarning": "[AUTO-ACCEPT]: Please do NOT set accept delay greater than 10 seconds. This will cause you to be unable to accept the match.",
+    "acceptError": "[AUTO-ACCEPT]: An error occured while auto-accepting match:"
 }
