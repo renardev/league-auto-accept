@@ -1,5 +1,12 @@
-# League-auto-accept
+# League Auto Accept
 
+## Bu Alan Türk Kullanıcılar İçindir
 
- 
-Auto accept matches for League of Legends.
+### **Nasıl Kullanılır ?**
+**Eklenecek..**
+
+### **Sıkça Sorulan Sorular ?**
+
+#### **Ban Durumu Nedir?**
+> [!CAUTION]
+> Şuanda Ban Durumu Bulunmasa Bile İlerleyen Yamalarda Riot Games Tarafından Atılacak Düzenlemelerden Ötürü Ban Durumu Etkilenebilir! Bunun Sorumluluğu Size Aittir.
