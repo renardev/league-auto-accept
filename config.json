@@ -1,7 +1,7 @@
 {
     "ready": "[AUTO-ACCEPT]: Ready",
     "searchStatus": {
-        "Invalid": "[AUTO-ACCEPT]: No longer searching for a match.",
+        "Invalid": "[AUTO-ACCEPT]: No longer searching for a match",
         "Searching": "[AUTO-ACCEPT]: In queue",
         "Found": "[AUTO-ACCEPT]: Match found! Waiting for auto accept delay..."
     },

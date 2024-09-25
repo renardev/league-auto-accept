@@ -41,7 +41,7 @@ if (config.acceptDelay > 10) logger.warn(config.delayWarning);
 			const status = data.searchState; // Invalid | Searching | Found
 
 			if (MATCH_STATUS == status) return; // Block spamming same status.
-			if (status == "Invalid") console.clear();
+			console.clear();
 
 			logger.log(config.searchStatus[status]);
 
@@ -73,7 +73,7 @@ if (config.acceptDelay > 10) logger.warn(config.delayWarning);
 
 		if (PLAYER_STATUS == response) return; // Block spamming same status.
 
-		response == "None" || logger.log(config.playerStatus[response]);
+		response == "None" || logger.warn(config.playerStatus[response]);
 		PLAYER_STATUS = response;
 	});
 })();
