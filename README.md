@@ -12,5 +12,5 @@
 > Şuanda Ban Durumu Bulunmasa Bile İlerleyen Yamalarda Riot Games Tarafından Atılacak Düzenlemelerden Ötürü Ban Durumu Etkilenebilir! Bunun Sorumluluğu Size Aittir.
 
 #### **İleride Eklenmesi Düşünülen Özellikler Nelerdir?**
-> [!INFORMATION]
+> [!NOTE]
 > Şuanda Otomatik Şampiyon Seçimi Gibi Özellikler Düşünülmektedir.
