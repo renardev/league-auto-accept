@@ -45,6 +45,7 @@ if (config.acceptDelay > 10) logger.warn(config.delayWarning);
 
 			logger.log(config.searchStatus[status]);
 
+			PLAYER_STATUS = "None";
 			MATCH_STATUS = status;
 
 			if (status == "Found") {
@@ -61,8 +62,6 @@ if (config.acceptDelay > 10) logger.warn(config.delayWarning);
 						.catch((err) => {
 							logger.error(`${config.acceptError}\n${err}`);
 						});
-
-					PLAYER_STATUS = "None";
 				}, ACCEPT_DELAY * 1e3);
 			}
 		}
